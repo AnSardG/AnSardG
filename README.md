@@ -8,7 +8,7 @@
 - [Unity Projects](https://github.com/AnSardG/Unity-learning)
 - [Java Exercises](https://github.com/AnSardG/Java-exercises)
   
-## Habilidades Técnicas
+## Technical Skills
 
 - **Programming Languages:** Java, Python, C#, PHP, JavaScript.
 - **Database Languages:** MySQL, MongoDB, MariaDB.
