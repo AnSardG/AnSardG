@@ -13,6 +13,7 @@
 - **Programming Languages:** Java, Python, C#, PHP, JavaScript.
 - **Database Languages:** MySQL, MongoDB, MariaDB.
 - **Frameworks:** Angular, Bootstrap.
+- **Devops:** Docker, Bash.
 - **General Software:** Unity, Photoshop, Cubase, Premiere, Sibelius, Musescore.
 
 ## Education and Experience
