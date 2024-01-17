@@ -23,8 +23,3 @@
 ## Social Media Links
 
 - [LinkedIn](https://www.linkedin.com/in/antoniosard/)
-
-## Github Statistics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnSardG&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/AnSardG)
-
