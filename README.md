@@ -18,6 +18,7 @@
 ## Education and Experience
 
 - Advanced Specific Vocational Training in Web Application Development - Campus Cámara de Sevilla (Spain).
+- Machine learning & neural networks with Python 2022. Udemy, Pablo Luis Sánchez Stahlschmidt.
 - Experience in personal projects and as a technician in a local computer store.
 
 ## Social Media Links
