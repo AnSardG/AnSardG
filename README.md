@@ -1,16 +1,30 @@
-### Hi there 👋
+# Antonio Sard - Software Developer
 
-<!--
-**AnSardG/AnSardG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hello! I'm Antonio Sard, experienced developer in web application, artificial intelligence and videogame development.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Machine Learning Project](https://github.com/AnSardG/Machine_Learning_2022)
+- [Unity Projects](https://github.com/AnSardG/Unity-learning)
+- [Java Exercises](https://github.com/AnSardG/Java-exercises)
+  
+## Habilidades Técnicas
+
+- **Programming Languages:** Java, Python, C#, PHP, JavaScript.
+- **Database Languages:** MySQL, MongoDB, MariaDB.
+- **Frameworks:** Angular, Bootstrap.
+- **General Software:** Unity, Photoshop, Cubase, Premiere, Sibelius, Musescore.
+
+## Education and Experience
+
+- Advanced Specific Vocational Training in Web Application Development - Campus Cámara de Sevilla (Spain).
+- Experience in personal projects and as a technician in a local computer store.
+
+## Social Media Links
+
+- [LinkedIn](https://www.linkedin.com/in/antoniosard/)
+
+## Github Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnSardG&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)](https://github.com/AnSardG)
+
