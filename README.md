@@ -4,6 +4,7 @@
 
 ## Featured Projects
 
+- [GameHub](https://github.com/AnSardG/GameHub)
 - [Machine Learning Project](https://github.com/AnSardG/Machine_Learning_2022)
 - [Unity Projects](https://github.com/AnSardG/Unity-learning)
 - [Java Exercises](https://github.com/AnSardG/Java-exercises)
@@ -12,12 +13,13 @@
 
 - **Programming Languages:** Java, Python, C#, PHP, JavaScript.
 - **Database Languages:** MySQL, MongoDB, MariaDB.
-- **Frameworks:** Angular, Bootstrap.
+- **Frameworks:** Angular, Bootstrap, .NET.
 - **Devops:** Docker, Bash.
-- **General Software:** Unity, Photoshop, Cubase, Premiere, Sibelius, Musescore.
+- **General Software:** Postman, Unity, Photoshop, Cubase, Premiere, Sibelius, Musescore.
 
 ## Education and Experience
 
+- Internship with an enterprise focused on education applicatons done with .NET technology.
 - Advanced Specific Vocational Training in Web Application Development - Campus Cámara de Sevilla (Spain).
 - Machine learning & neural networks with Python 2022. Udemy, Pablo Luis Sánchez Stahlschmidt.
 - Experience in personal projects and as a technician in a local computer store.
