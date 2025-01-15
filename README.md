@@ -14,11 +14,12 @@
 - **Programming Languages:** Java, Python, C#, PHP, JavaScript.
 - **Database Languages:** MySQL, MongoDB, MariaDB.
 - **Frameworks:** Angular, Bootstrap, .NET.
-- **Devops:** Docker, Bash.
-- **General Software:** Postman, Unity, Photoshop, Cubase, Premiere, Sibelius, Musescore.
+- **Devops:** Docker, Bash, TeamCity.
+- **General Software:** Splunk, Postman, SQL SSMS, Unity, Photoshop, Cubase, Premiere, Sibelius, Musescore.
 
 ## Education and Experience
-
+- Working as a software consultant, developing different technologies and always adapting to the client's demands.
+- Working on massive .NET applications that went from monolith to microservices structure.
 - Internship with an enterprise focused on education applicatons done with .NET technology.
 - Advanced Specific Vocational Training in Web Application Development - Campus Cámara de Sevilla (Spain).
 - Machine learning & neural networks with Python 2022. Udemy, Pablo Luis Sánchez Stahlschmidt.
