@@ -11,11 +11,12 @@
   
 ## Technical Skills
 
-- **Programming Languages:** Java, Python, C#, PHP, JavaScript.
+- **Programming Languages:** PHP, C#, Java, JavaScript, Python.
 - **Database Languages:** MySQL, MongoDB, MariaDB.
-- **Frameworks:** Angular, Bootstrap, .NET.
+- **Frontend Frameworks:** Angular, Bootstrap.
+- **Backend Frameworks:** Laravel, NodeJS.
 - **Devops:** Docker, Bash, TeamCity.
-- **General Software:** Splunk, Postman, SQL SSMS, Unity, Photoshop, Cubase, Premiere, Sibelius, Musescore.
+- **General Software:** Git, SQL Server Management Studio, Splunk, Postman, Unity, Photoshop, Cubase, Premiere, Sibelius.
 
 ## Education and Experience
 - Working as a software consultant, developing different technologies and always adapting to the client's demands.
